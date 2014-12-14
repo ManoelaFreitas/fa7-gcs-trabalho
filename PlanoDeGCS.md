@@ -128,6 +128,8 @@ Os possíveis estados para uma mudança estão especificados na tabela abaixo:
 ### 3.2.2 Comitê de Controle de Mudança (CCB)
 O CCB é responsável pela aprovação das solicitações de mudança para que sejam incorporadas ao produto através da alteração de uma baseline. Segundo a hierarquia institucional do CCB, o CCB Item será formado pelos responsáveis de cada item de configuração afetado pela solicitação de mudança. O CCB tem como participantes:
 
+| Participantes |
+|-----------|
 |Coordenador do Projeto|
 |Líder de Configuração|
 
